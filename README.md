@@ -16,5 +16,5 @@
 
 #### 	- 독후감
 
-###### * 노션링크​ https://www.notion.so/CodeSquad-89de03ec329f4cee909e45a43279597e 
+###### [노션링크]​(https://www.notion.so/CodeSquad-89de03ec329f4cee909e45a43279597e "코드스쿼드 노션 북스터디")
 
